@@ -10,7 +10,7 @@ import (
 func main() {
 	var files []string
 
-	root := "D:/中医书籍/书籍"
+	root := "D:/中医书籍/中医书籍"
 	err := filepath.Walk(root, func(path string, info os.FileInfo, err error) error {
 		if info.Mode()&os.ModeDir > 0 {
 			return nil
