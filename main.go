@@ -22,13 +22,11 @@ func main() {
 		panic(err)
 	}
 
-	//file := os.OpenFile("readme.md", os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0777)
-
-	//for _, file := range files {
-	//	fmt.Println(file)
-	//}
-
-	os.WriteFile("README.md", []byte("````\n"+
-		strings.Join(files, "\r\n")+
-		"\n````\n共"+fmt.Sprintf("%d", len(files))+"本, 持续更新\r\n### 加微信获取\n![alt 属性文本](w.png)"), 0777)
+	os.WriteFile("README.md", []byte(
+		"````\n"+
+			strings.Join(files, "\r\n")+
+			"\n````\n"+
+			"共"+fmt.Sprintf("%d", len(files))+"本, 持续更新\r\n"+
+			"### 加微信获取\n![alt 属性文本](w.png)"),
+		0777)
 }
