@@ -30,5 +30,5 @@ func main() {
 
 	os.WriteFile("README.md", []byte("````\n"+
 		strings.Join(files, "\r\n")+
-		"\n````\n共"+fmt.Sprintf("%d", len(files))+"本\r\n### 加微信获取\n![alt 属性文本](w.png)"), 0777)
+		"\n````\n共"+fmt.Sprintf("%d", len(files))+"本, 持续更新\r\n### 加微信获取\n![alt 属性文本](w.png)"), 0777)
 }
