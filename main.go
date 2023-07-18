@@ -15,7 +15,16 @@ func main() {
 		if info.Mode()&os.ModeDir > 0 {
 			return nil
 		}
-		files = append(files, info.Name())
+
+		size := info.Size()
+		size = size / 1024
+		sizeText := fmt.Sprintf("%dk", size)
+		if size > 1024 {
+			size = size / 1024
+			sizeText = fmt.Sprintf("%dM", size)
+		}
+
+		files = append(files, info.Name()+" "+sizeText)
 		return nil
 	})
 	if err != nil {
