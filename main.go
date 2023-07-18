@@ -23,7 +23,7 @@ func main() {
 	}
 
 	os.WriteFile("README.md", []byte(
-		"````\n"+
+		"## 中医资料大全，持续更新````\n"+
 			strings.Join(files, "\r\n")+
 			"\n````\n"+
 			"共"+fmt.Sprintf("%d", len(files))+"本, 持续更新\r\n"+
