@@ -45,7 +45,7 @@ func main() {
 	})
 
 	os.WriteFile("README.md", []byte(
-		"### 加微信获取\n![alt 属性文本](w.png)\n## 中医资料大全，持续更新"+
+		"#### 加微信获取\n![alt 属性文本](w.png)\n## 中医资料大全，持续更新"+
 			"\n````\n"+
 			strings.Join(files, "\r\n")+
 			"\n````\n"+
