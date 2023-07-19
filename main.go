@@ -45,12 +45,12 @@ func main() {
 	})
 
 	os.WriteFile("README.md", []byte(
-		"## 中医资料大全，持续更新"+
+		"### 加微信获取\n![alt 属性文本](w.png)\n## 中医资料大全，持续更新"+
 			"\n````\n"+
 			strings.Join(files, "\r\n")+
 			"\n````\n"+
 			"共"+fmt.Sprintf("%d", len(files))+"本, 持续更新\r\n"+
-			"### 加微信获取\n![alt 属性文本](w.png)\n## 其他电子书\n````\n"+
+			"## 其他电子书\n````\n"+
 			strings.Join(other, "\n")+
 			"\n````\n"),
 		0777)
