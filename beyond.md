@@ -4,6 +4,66 @@
 #### beyond演唱会全集、beyond音乐全集、beyond资源大全、黄家驹资源全集
 ![目录大小](size.png)
 
+## 1996【DVD】Live & basice-DVD菜单
+````
+VIDEO_TS.IFO 12k
+VIDEO_TS.VOB 42M
+VTS_01_0.IFO 18k
+VTS_01_0.VOB 30M
+VTS_01_1.VOB 18M
+VTS_02_0.IFO 74k
+VTS_02_0.VOB 1M
+VTS_02_1.VOB 1023M
+VTS_02_2.VOB 1023M
+VTS_02_3.VOB 1023M
+VTS_02_4.vob 960M
+beyond96.txt 3k
+喜欢你.DAT 51M
+大地.dat 51M
+想你.dat 49M
+门外看.dat 57M
+````
+## 1993日本演唱会
+````
+beyond1992演唱会（日本现场）.SRT 2k
+beyond1992演唱会（日本现场）.txt 0k
+````
+## 1993【DVD】马来西亚不插电
+````
+VIDEO_TS.IFO 12k
+VIDEO_TS.VOB 15M
+VTS_01_0.IFO 58k
+VTS_01_0.VOB 27M
+VTS_01_1.VOB 1023M
+VTS_01_2.VOB 1023M
+VTS_01_3.VOB 549M
+````
+## 1991【DVD】演唱会-生命接触演唱会-光辉岁月DVD
+````
+VIDEO_TS/VIDEO_TS.IFO 16k
+VIDEO_TS/VTS_01_0.BUP 58k
+VIDEO_TS/VTS_01_0.VOB 258k
+VIDEO_TS/VTS_01_1.VOB 1023M
+VIDEO_TS/VTS_01_2.VOB 1023M
+VIDEO_TS/VTS_01_3.VOB 1023M
+VIDEO_TS/VTS_01_4.VOB 1023M
+VIDEO_TS/VTS_01_5.VOB 109M
+VIDEO_TS/VTS_02_0.IFO 18k
+````
+## 1991【DVD】演唱会-生命接触演唱会DVD
+````
+IDEO_TS.IFO 10k
+TS_01_0.IFO 78k
+TS_01_0.VOB 260k
+TS_01_1.VOB 1023M
+TS_01_2.VOB 1023M
+TS_01_3.VOB 1023M
+TS_01_4.VOB 1023M
+TS_01_5.VOB 148M
+TS_02_0.IFO 18k
+TS_02_0.VOB 114k
+TS_02_1.VOB 18M
+````
 ## 劲歌金曲全集
 ````
 1983年度十大劲歌金曲颁奖典礼.无删减.无广告.无字幕.rmvb 501M
