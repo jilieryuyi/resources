@@ -4,72 +4,58 @@
 #### beyond演唱会全集、beyond音乐全集、beyond资源大全、黄家驹资源全集
 ![目录大小](size.png)
 
-## 1992年07月-無盡空虛 (EP)
+## 1993年05月-乐与怒
 ````
-1 無盡空虛.wav 46M
-2 點解.點解.wav 35M
-3 The Wall ～長城～ (日文版).wav 49M
-無盡空虛 (EP).jpg 175k
+1993年05月-乐与怒-01-我是愤怒.wav 42M
+1993年05月-乐与怒-02-爸爸妈妈.wav 37M
+1993年05月-乐与怒-03-和平与爱.wav 34M
+1993年05月-乐与怒-04-命运是你家.wav 34M
+1993年05月-乐与怒-05-全是爱.wav 47M
+1993年05月-乐与怒-06-海阔天空.wav 54M
+1993年05月-乐与怒-07-狂人山庄.wav 42M
+1993年05月-乐与怒-08-妄想.wav 42M
+1993年05月-乐与怒-09-完全地爱吧.wav 40M
+1993年05月-乐与怒-10-情人.wav 53M
+1993年05月-乐与怒-11-走不开的快乐.wav 43M
+1993年05月-乐与怒-12-无无谓.wav 20M
+1993年05月-乐与怒-曲目.txt 0k
 ````
-## 1992年08月-继续革命
+## 1994祝你愉快
 ````
-01-长城.wav 48M
-02-农民.wav 53M
-03-遥望.wav 53M
-04-Bye_Bye.wav 33M
-05-不可一世.wav 43M
-06-温暖的家乡.wav 32M
-07-快乐王国.wav 35M
-08-继续沉醉.wav 48M
-09-可否冲破.wav 48M
-10-早班火车.wav 58M
-11-无语问苍天.wav 47M
-12-厌倦寂寞.wav 43M
-繼續革命.jpg 178k
+94祝你愉快Audio_CD.cue 0k
+Track01.wav 40M
+Track02.wav 52M
+Track03.wav 46M
+Track04.wav 41M
+Track05.wav 42M
+Track06.wav 41M
+Track07.wav 65M
+Track08.wav 53M
+Track09.wav 49M
+Track10.wav 52M
 ````
-## 1989年04月-BEYOND 4拍4 (EP)
+## 永远等待25周年纪念版
 ````
-1 午夜迷墻.wav 47M
-2 大地.wav 44M
-3 昔日舞曲.wav 44M
-4 大地 (音樂版).wav 44M
-BEYOND 4拍4 (EP).jpg 223k
+01.永远等待电台广告(1987).wav 5M
+02.永远等待Beyond自述历史(1987).wav 190M
+03.Beyond Live Uncut(1987).wav 254M
+05.永远等待(85年I.C.12寸混音版).wav 56M
+06.冲(87年现场).wav 38M
+Image027.jpg 12M
+Image028.jpg 11M
 ````
-## 1991年04月-光輝歲月
+## 1991年06月-犹豫
 ````
-01 光輝歲月.wav 51M
-02 午夜怨曲.wav 47M
-03 撒旦的詛咒.wav 38M
-04 請妳讓我來決定我的路.wav 39M
-05 射手座咒語.wav 38M
-06 歲月無聲.wav 44M
-07 曾經擁有.wav 44M
-08 懷念妳、忘記妳.wav 42M
-09 心中的太陽.wav 46M
-10 兩顆心.wav 40M
-光輝歲月.jpg 415k
-````
-## 1992年01月-control
-````
-01 報答一生.wav 39M
-02 灰色軌跡.wav 55M
-03 大地.wav 44M
-04 歲月無聲.wav 48M
-05 與妳共行.wav 41M
-06 舊日的足跡.wav 54M
-07 AMANI.wav 48M
-08 交織千個心.wav 59M
-09 光輝歲月.wav 51M
-10 未曾後悔.wav 35M
-11 冷雨夜.wav 50M
-12 懷念您.wav 41M
-13 再見理想.wav 50M
-BEYOND CONTROL 1.jpg 2M
-BEYOND CONTROL 2.jpg 3M
-BEYOND CONTROL 3.jpg 3M
-BEYOND CONTROL.jpg 256k
-BEYOND【CONTROL】专辑.cue 1k
-BEYOND【CONTROL】专辑.wav 620M
+1991年06月-犹豫-01-Amani.wav 48M
+1991年06月-犹豫-02-坚持信念.wav 37M
+1991年06月-犹豫-03-不再犹豫.wav 42M
+1991年06月-犹豫-04-系要听Rock And Roll.wav 40M
+1991年06月-犹豫-05-我早应该习惯.wav 35M
+1991年06月-犹豫-07-高温派对.wav 36M
+1991年06月-犹豫-08-谁来主宰.wav 38M
+1991年06月-犹豫-09-爱你一切.wav 39M
+1991年06月-犹豫-10-完全的拥有.wav 36M
+1991年06月-犹豫-曲目.txt 1k
 ````
 ## 1992年09月-超越-日语专辑
 ````
@@ -85,38 +71,31 @@ Track09.wav 46M
 Track10.wav 33M
 Track11.wav 54M
 ````
-## 1993年11月-海阔天空
+## 1994年12月-PARADISE
 ````
-01-海阔天空.wav 54M
-02-爸爸妈妈.wav 37M
-03-爱不容易说.wav 43M
-04-和平与爱.wav 34M
-05-身不由己.wav 44M
-06-全是爱.wav 47M
-07-情人.wav 53M
-08-无无谓.wav 21M
-09-爱不容易说(日文版).wav 42M
-10-海阔天空(日文版).wav 54M
-海闊天空.jpg 186k
-````
-## 1995年10月-LOVE & LIFE
-````
-BEYOND - CRYIN.wav 62M
-BEYOND - LOVE & LIFE.m3u 0k
-BEYOND - LOVE.wav 51M
-BEYOND - 一厢情愿.wav 57M
-BEYOND - 唯一.wav 44M
-BEYOND - 声音.wav 35M
-BEYOND - 最后的答案.wav 38M
-BEYOND - 梦.wav 40M
-BEYOND - 活得精彩.wav 43M
-BEYOND - 糊涂的人.wav 52M
-BEYOND - 荒谬世界.wav 48M
+BEYOND - Dancing In The Rain.wav 44M
+BEYOND - PARADISE.m3u 0k
+BEYOND - Paradise(演奏版).wav 44M
+BEYOND - Paradise.wav 44M
+BEYOND - We Don't Make Without You.wav 44M
+BEYOND - 一辈子陪我走.wav 47M
+BEYOND - 和平世界.lrc 0k
+BEYOND - 和平世界.wav 45M
+BEYOND - 因为有你有我.wav 48M
+BEYOND - 对吗.wav 46M
+BEYOND - 情深依旧.wav 44M
+BEYOND - 无名英雄.wav 46M
+BEYOND - 温柔杀手.wav 41M
+BEYOND - 祝您愉快.wav 39M
+Beyond - PARADISE(英).lrc 0k
+Beyond - 对吗.lrc 0k
+Beyond - 情深依旧.lrc 0k
+Beyond - 无名英雄.lrc 1k
 Beyond博物馆.txt 0k
-IMG_0339.jpg 1M
-IMG_0340.jpg 1M
-IMG_0341.jpg 1M
-抓取日志.log 1k
+IMG_0342.jpg 2M
+IMG_0343.jpg 2M
+IMG_0344.jpg 2M
+抓取日志.log 2k
 ````
 ## 创世纪组合
 ````
@@ -139,12 +118,165 @@ beyond创世纪组合-I.jpg 66k
 beyond创世纪组合-II.jpg 62k
 beyond创世纪组合-曲目.txt 0k
 ````
-## 1983年01月-香港
+## 1989年04月-BEYOND 4拍4 (EP)
 ````
-IMG_0204.JPG 153k
-大廈 Building.wav 72M
-抓取日志.log 0k
-腦部侵蝕 Brain Attack.wav 72M
+1 午夜迷墻.wav 47M
+2 大地.wav 44M
+3 昔日舞曲.wav 44M
+4 大地 (音樂版).wav 44M
+BEYOND 4拍4 (EP).jpg 223k
+````
+## 1991年06月-DELIBERATE 猶豫（2）
+````
+01 AMANI.wav 48M
+02 堅持信念.wav 37M
+03 不再猶豫.wav 43M
+04 係要聽 Rock N' Roll.wav 40M
+05 我早應該習慣.wav 34M
+06 誰伴我闖蕩.wav 42M
+07 高溫派對.wav 35M
+08 誰來主宰.wav 38M
+09 愛妳一切.wav 39M
+10 完全的擁有.wav 36M
+DELIBERATE 猶豫.jpg 138k
+````
+## 1994 KINN'S [FOREVER VOL.1 新天地+第一次] 原盘无损WAV及写真照
+````
+Track01.wav 34M
+Track02.wav 39M
+Track03.wav 45M
+Track04.wav 39M
+````
+## 1993年05月-樂輿怒（2）
+````
+01 我是憤怒.wav 42M
+02 爸爸媽媽.wav 37M
+03 和平與愛.wav 34M
+04 命運是妳家.wav 34M
+05 全是愛.wav 47M
+06 海闊天空.wav 54M
+07 狂人山莊.wav 42M
+08 妄想.wav 42M
+09 完全地愛吧.wav 40M
+10 情人.wav 53M
+11 走不開的快樂.wav 43M
+12 無無謂.wav 21M
+樂輿怒.jpg 111k
+````
+## 1987年10月-超越阿拉伯
+````
+Track01.wav 38M
+Track02.wav 39M
+Track03.wav 44M
+Track04.wav 47M
+Track05.wav 44M
+Track06.wav 44M
+Track07.wav 34M
+Track08.wav 47M
+Track09.wav 42M
+Track10.wav 49M
+Track11.wav 46M
+Track12.wav 32M
+````
+## 1988年09月-秘密警察
+````
+1988年09月-秘密警察-01-冲开一切.wav 39M
+1988年09月-秘密警察-02-秘密警察.wav 34M
+1988年09月-秘密警察-03-再见理想.wav 48M
+1988年09月-秘密警察-04-昨日的牵绊.wav 53M
+1988年09月-秘密警察-05-未知赛事的长跑.wav 33M
+1988年09月-秘密警察-06-大地.wav 43M
+1988年09月-秘密警察-07-喜欢你.wav 45M
+1988年09月-秘密警察-08-每段路.wav 39M
+1988年09月-秘密警察-09-心内心外.wav 40M
+1988年09月-秘密警察-10-愿我能.wav 43M
+1988年09月-秘密警察-11-大地-国.wav 43M
+1988年09月-秘密警察-12-破坏游戏的孩子-国.wav 40M
+1988年09月-秘密警察-13-今天有我-国.wav 34M
+1988年09月-秘密警察.txt 1k
+````
+## BBEYOND_best_of_millennium
+````
+BEYOND best of millennium A/01 喜欢你.wav 46M
+BEYOND best of millennium A/02 冷雨夜.wav 50M
+BEYOND best of millennium A/03 原谅我今天.wav 48M
+BEYOND best of millennium A/04 是错也再不分.wav 44M
+BEYOND best of millennium A/05 谁伴我闯荡.wav 42M
+BEYOND best of millennium A/06 愿我能.wav 43M
+BEYOND best of millennium A/07 曾是拥有.wav 45M
+BEYOND best of millennium A/08 未曾后悔.wav 34M
+BEYOND best of millennium A/09 无泪的遗憾.wav 53M
+BEYOND best of millennium A/10 怀念您.wav 41M
+BEYOND best of millennium A/11 灰色轨迹.wav 54M
+BEYOND best of millennium A/12 报答一生.wav 39M
+BEYOND best of millennium A/13 真的爱你.wav 46M
+BEYOND best of millennium A/14 再见理想.wav 49M
+BEYOND best of millennium A/15 光辉岁月.wav 50M
+BEYOND best of millennium A/16 AMANI.wav 48M
+BEYOND best of millennium A/未知标题 - 未知艺术家.log 18k
+BEYOND best of millennium B/01秘密警察.wav 34M
+BEYOND best of millennium B/02 东方宝藏.wav 38M
+BEYOND best of millennium B/03 爆裂都市.wav 40M
+BEYOND best of millennium B/04 亚拉伯跳舞女郎.wav 38M
+BEYOND best of millennium B/05 岁月无声.wav 47M
+BEYOND best of millennium B/06 昔日舞曲.wav 43M
+BEYOND best of millennium B/07 午夜流浪.wav 43M
+BEYOND best of millennium B/08 冲开一切.wav 39M
+BEYOND best of millennium B/09 不再犹豫.wav 42M
+BEYOND best of millennium B/10 午夜怨曲.wav 45M
+BEYOND best of millennium B/11 旧日的足迹.wav 53M
+BEYOND best of millennium B/12 大地.wav 43M
+BEYOND best of millennium B/13 孤单一吻.wav 48M
+BEYOND best of millennium B/14 送给不知怎么去保护环境的人（包括我）.wav 40M
+BEYOND best of millennium B/15 俾面派对.wav 44M
+BEYOND best of millennium B/16 坚持信念.wav 37M
+````
+## Hi-Fi新元素
+````
+CDImage.cue 1k
+CDImage.wav 500M
+Logo.log 2k
+````
+## 1993年11月-海阔天空
+````
+01-海阔天空.wav 54M
+02-爸爸妈妈.wav 37M
+03-爱不容易说.wav 43M
+04-和平与爱.wav 34M
+05-身不由己.wav 44M
+06-全是爱.wav 47M
+07-情人.wav 53M
+08-无无谓.wav 21M
+09-爱不容易说(日文版).wav 42M
+10-海阔天空(日文版).wav 54M
+海闊天空.jpg 186k
+````
+## 1990年03月-大地（20周年24k）
+````
+1990年03月-大地-01-大地.wav 44M
+1990年03月-大地-02-漆黑的空间.wav 50M
+1990年03月-大地-03-短暂的温柔.wav 35M
+1990年03月-大地-04-不需要太懂.wav 43M
+1990年03月-大地-05-九十年代的忧伤.wav 29M
+1990年03月-大地-06-你知道我的迷惘.wav 52M
+1990年03月-大地-07-送给不懂保护环境的人（包括我）.wav 40M
+1990年03月-大地-08-和我自己的心比赛.wav 39M
+1990年03月-大地-09-破坏游戏的孩子.wav 40M
+1990年03月-大地-10-今天有我.wav 34M
+1990年03月-大地-内页/1.jpg 1M
+1990年03月-大地-内页/2.jpg 980k
+1990年03月-大地-内页/3.jpg 1M
+1990年03月-大地-内页/4.jpg 964k
+1990年03月-大地-封底.jpg 2M
+1990年03月-大地-封面.jpg 2M
+1990年03月-大地-盘面.jpg 314k
+````
+## 1992年07月-無盡空虛 (EP)
+````
+1 無盡空虛.wav 46M
+2 點解.點解.wav 35M
+3 The Wall ～長城～ (日文版).wav 49M
+無盡空虛 (EP).jpg 175k
 ````
 ## 1990年09月-命運派對
 ````
@@ -159,19 +291,6 @@ IMG_0204.JPG 153k
 09 送給不知道怎去保護環境的人 (包括我).wav 40M
 10 戰勝心魔.wav 40M
 命運派對.jpg 221k
-````
-## 1991年06月-犹豫
-````
-1991年06月-犹豫-01-Amani.wav 48M
-1991年06月-犹豫-02-坚持信念.wav 37M
-1991年06月-犹豫-03-不再犹豫.wav 42M
-1991年06月-犹豫-04-系要听Rock And Roll.wav 40M
-1991年06月-犹豫-05-我早应该习惯.wav 35M
-1991年06月-犹豫-07-高温派对.wav 36M
-1991年06月-犹豫-08-谁来主宰.wav 38M
-1991年06月-犹豫-09-爱你一切.wav 39M
-1991年06月-犹豫-10-完全的拥有.wav 36M
-1991年06月-犹豫-曲目.txt 1k
 ````
 ## 无损单曲
 ````
@@ -243,220 +362,17 @@ paradise（音乐版）.wav 44M
 长空.wav 49M
 阿拉伯跳舞女郎-阿拉伯跳舞女郎.wav 39M
 ````
-## 1989年07月-BEYOND IV（2）
+## 超越阿拉伯演唱会
 ````
-01 真的愛妳.wav 47M
-02 我有我風格.wav 37M
-03 曾是擁有.wav 45M
-04 摩登時代.wav 40M
-05 原諒我今天.wav 49M
-06 與妳共行.wav 40M
-07 逝去日子.wav 38M
-08 爆裂都市.wav 41M
-09 午夜迷牆.wav 47M
-10 最後的對話.wav 43M
-BEYOND IV.jpg 308k
-````
-## 1991年12月-BEYOND LIVE 1991  2CD（2）
-````
-BEYOND LIVE 91.jpg 252k
-CD1/01 [Music Introduction].wav 17M
-CD1/02 俾面派對.wav 37M
-CD1/03 高溫派對.wav 33M
-CD1/04 我早應該習慣.wav 33M
-CD1/05 [Talk I].wav 4M
-CD1/06 午夜怨曲.wav 44M
-CD1/07 [Talk II].wav 4M
-CD1/08 是錯也再不分.wav 45M
-CD1/09 真的愛妳.wav 54M
-CD1/10 願我能.wav 53M
-CD1/11 誰伴我闖蕩.wav 43M
-CD1/12 灰色軌跡.wav 56M
-CD1/13 冷雨夜.wav 62M
-CD1/14 完全的擁有.wav 37M
-CD2/01 喜歡妳.wav 48M
-CD2/02 月光光.wav 22M
-CD2/03 舊日的足跡.wav 50M
-CD2/04 歲月無聲.wav 44M
-CD2/05 大地.wav 70M
-CD2/06 [Talk III].wav 7M
-CD2/07 不再猶豫.wav 44M
-CD2/08 [Talk IV].wav 9M
-CD2/09 AMANI.wav 54M
-CD2/10 [Encore Introduction].wav 34M
-CD2/11 金屬狂人.wav 41M
-CD2/12 [Talk V].wav 16M
-CD2/13 再見理想.wav 44M
-CD2/14 光輝歲月.wav 57M
-````
-## 永远等待25周年纪念版
-````
-01.永远等待电台广告(1987).wav 5M
-02.永远等待Beyond自述历史(1987).wav 190M
-03.Beyond Live Uncut(1987).wav 254M
-05.永远等待(85年I.C.12寸混音版).wav 56M
-06.冲(87年现场).wav 38M
-Image027.jpg 12M
-Image028.jpg 11M
-````
-## 1989年07月-Beyond IV
-````
-1989年07月-Beyond IV-01-真的爱你.wav 46M
-1989年07月-Beyond IV-02-我有我风格.wav 37M
-1989年07月-Beyond IV-03-曾经拥有.wav 45M
-1989年07月-Beyond IV-04-摩登时代.wav 40M
-1989年07月-Beyond IV-05-原谅我今天.wav 48M
-1989年07月-Beyond IV-06-与你共行.wav 40M
-1989年07月-Beyond IV-07-逝去日子.wav 38M
-1989年07月-Beyond IV-08-爆裂都市.wav 40M
-1989年07月-Beyond IV-09-午夜迷墙.wav 46M
-1989年07月-Beyond IV-10-最后的对话.wav 43M
-````
-## 1989年01月-现代舞台
-````
-Track01.wav 44M
-Track02.wav 41M
-Track03.wav 40M
-Track04.wav 37M
-Track05.wav 43M
-Track05.wav.baiduyun.downloading 43M
-Track05.wav.baiduyun.downloading.cfg 2k
-Track06.wav 7M
-Track07.wav 43M
-Track08.wav 43M
-Track09.wav 45M
-Track10.wav 52M
-Track11.wav 45M
-````
-## 1991年03月-大地 (銀圈版)
-````
-01 大地.wav 44M
-02 不需要太懂.wav 43M
-03 漆黑的空間.wav 51M
-04 無悔這一生 (粵).wav 40M
-05 送給不懂環保的人.wav 40M
-06 短暫的溫柔.wav 35M
-07 歲月無聲 (粵).wav 48M
-08 和自己的心比賽.wav 39M
-09 午夜怨曲 (粵).wav 46M
-10 妳知道我的迷惘.wav 51M
-大地 (銀圈版).jpg 247k
-````
-## Beyond - 秘密警察（正东）
-````
-Beyond - 秘密警察（正东）.cue 1k
-Beyond - 秘密警察（正东）.txt 1k
-Beyond - 秘密警察（正东）.wav 545M
-````
-## Hi-Fi新元素
-````
-CDImage.cue 1k
-CDImage.wav 500M
-Logo.log 2k
-````
-````
-合辑【天碟金曲精选五】专辑.wav 652M
-我地呀电台现场版.wav 581M
-许冠杰 - 交织千个心.wav 57M
-````
-## 雨果唱片：beyond专辑《LPCD45之Beyond》
-````
-1.JPG 280k
-2.jpg 293k
-3.jpg 230k
-LPCD45-Beyond.cue 1k
-LPCD45-Beyond.log 1k
-LPCD45-Beyond.wav 734M
-专辑简介.txt 0k
-````
-## 1987年07月-亞拉伯跳舞女郎
-````
-1987年07月-亞拉伯跳舞女郎-01-东方宝藏.wav 38M
-1987年07月-亞拉伯跳舞女郎-02-亚拉伯跳舞女郎.wav 38M
-1987年07月-亞拉伯跳舞女郎-03-沙丘魔女.wav 43M
-1987年07月-亞拉伯跳舞女郎-04-无声的告别.wav 47M
-1987年07月-亞拉伯跳舞女郎-05-追忆.wav 44M
-1987年07月-亞拉伯跳舞女郎-06-昔日舞曲.wav 43M
-1987年07月-亞拉伯跳舞女郎-07-新天地.wav 34M
-1987年07月-亞拉伯跳舞女郎-08-随意飘荡.wav 47M
-1987年07月-亞拉伯跳舞女郎-09-过去与今天.wav 41M
-1987年07月-亞拉伯跳舞女郎-10-孤单一吻.wav 48M
-1987年07月-亞拉伯跳舞女郎-11-玻璃箱.wav 45M
-1987年07月-亞拉伯跳舞女郎-12-水晶球.wav 32M
-1987年07月-亞拉伯跳舞女郎.jpg 532k
-````
-## 1990年10月-大地
-````
-01 大地.wav 43M
-02 漆黑的空間.wav 50M
-03 短暫的溫柔.wav 34M
-04 不需要太懂.wav 43M
-05 九十年代的憂傷.wav 29M
-06 妳知道我的迷惘.wav 52M
-07 送給不懂環保的人.wav 39M
-08 和自己的心比賽.wav 39M
-09 破壞遊戲的孩子.wav 40M
-10 今天有我.wav 34M
-大地.jpg 197k
-````
-## 1992年09月-信念
-````
-BEYOND - BYE BYE.wav 33M
-BEYOND - 今天就做.wav 40M
-BEYOND - 关心永远在.wav 54M
-BEYOND - 农民.wav 54M
-BEYOND - 厌倦寂寞.wav 45M
-BEYOND - 可否冲破.wav 47M
-BEYOND - 年轻.wav 35M
-BEYOND - 最想念你.wav 57M
-BEYOND - 温暖的家乡.wav 32M
-BEYOND - 爱过的罪.wav 47M
-BEYOND - 长城.wav 49M
-BEYOND - 问自己.wav 47M
-Beyond博物馆.txt 0k
-IMG_0336.jpg 1M
-IMG_0337.jpg 1M
-IMG_0338.jpg 1M
-抓取日志.log 2k
-````
-## 1994祝你愉快
-````
-94祝你愉快Audio_CD.cue 0k
-Track01.wav 40M
-Track02.wav 52M
-Track03.wav 46M
-Track04.wav 41M
-Track05.wav 42M
-Track06.wav 41M
-Track07.wav 65M
-Track08.wav 53M
-Track09.wav 49M
-Track10.wav 52M
-````
-## [新艺宝]命运派对Beyond(20周年24K Gold)(首批限量日本版)[巅峰原抓WAV+CUE]
-````
-Beyond - 命运派对 (20周年 24K  Gold).cue 1k
-Beyond - 命运派对 (20周年 24K  Gold).wav 417M
-EAC 抓取日志.log 2k
-cover.jpg 1M
-wav/(01) [Beyond] 光辉岁月.wav 50M
-wav/(02) [Beyond] 两颗心.wav 41M
-wav/(03) [Beyond] 俾面派对.wav 45M
-wav/(04) [Beyond] 无泪的遗憾.wav 53M
-wav/(05) [Beyond] 怀念你.wav 41M
-wav/(06) [Beyond] 可知道.wav 35M
-wav/(07) [Beyond] 相依的心.wav 29M
-wav/(08) [Beyond] 撒旦的咀咒.wav 37M
-wav/(09) [Beyond] 送给不知怎去保护环境的人(包括我).wav 40M
-wav/(10) [Beyond] 战胜心魔.wav 39M
-wav/[[巅峰无损音乐论]] [www.jdtop.net]命运派对 (20周年 24K  Gold).cue 3k
-wav/[[巅峰无损音乐论]] [www.jdtop.net]命运派对 (20周年 24K  Gold).m3u 0k
-wav/[[巅峰无损音乐论]] [www.jdtop.net]命运派对 (20周年 24K  Gold).m3u8 0k
-专辑简介.txt 1k
-巅峰无损-免责声明.txt 1k
-无标题.jpg 125k
-更多资源，请点击.url 0k
-频谱.jpg 370k
+87阿拉伯Audio_CD.cue 0k
+Track01.wav 122M
+Track02.wav 44M
+Track03.wav 62M
+Track04.wav 90M
+Track05.wav 44M
+Track06.wav 40M
+Track07.wav 41M
+Track08.wav 41M
 ````
 ## 1989年12月-真的見証
 ````
@@ -472,217 +388,63 @@ wav/[[巅峰无损音乐论]] [www.jdtop.net]命运派对 (20周年 24K  Gold).m
 10 無名的歌.wav 43M
 真的見証.jpg 164k
 ````
-## BBEYOND_best_of_millennium
+## 1991年04月-光輝歲月
 ````
-BEYOND best of millennium A/01 喜欢你.wav 46M
-BEYOND best of millennium A/02 冷雨夜.wav 50M
-BEYOND best of millennium A/03 原谅我今天.wav 48M
-BEYOND best of millennium A/04 是错也再不分.wav 44M
-BEYOND best of millennium A/05 谁伴我闯荡.wav 42M
-BEYOND best of millennium A/06 愿我能.wav 43M
-BEYOND best of millennium A/07 曾是拥有.wav 45M
-BEYOND best of millennium A/08 未曾后悔.wav 34M
-BEYOND best of millennium A/09 无泪的遗憾.wav 53M
-BEYOND best of millennium A/10 怀念您.wav 41M
-BEYOND best of millennium A/11 灰色轨迹.wav 54M
-BEYOND best of millennium A/12 报答一生.wav 39M
-BEYOND best of millennium A/13 真的爱你.wav 46M
-BEYOND best of millennium A/14 再见理想.wav 49M
-BEYOND best of millennium A/15 光辉岁月.wav 50M
-BEYOND best of millennium A/16 AMANI.wav 48M
-BEYOND best of millennium A/未知标题 - 未知艺术家.log 18k
-BEYOND best of millennium B/01秘密警察.wav 34M
-BEYOND best of millennium B/02 东方宝藏.wav 38M
-BEYOND best of millennium B/03 爆裂都市.wav 40M
-BEYOND best of millennium B/04 亚拉伯跳舞女郎.wav 38M
-BEYOND best of millennium B/05 岁月无声.wav 47M
-BEYOND best of millennium B/06 昔日舞曲.wav 43M
-BEYOND best of millennium B/07 午夜流浪.wav 43M
-BEYOND best of millennium B/08 冲开一切.wav 39M
-BEYOND best of millennium B/09 不再犹豫.wav 42M
-BEYOND best of millennium B/10 午夜怨曲.wav 45M
-BEYOND best of millennium B/11 旧日的足迹.wav 53M
-BEYOND best of millennium B/12 大地.wav 43M
-BEYOND best of millennium B/13 孤单一吻.wav 48M
-BEYOND best of millennium B/14 送给不知怎么去保护环境的人（包括我）.wav 40M
-BEYOND best of millennium B/15 俾面派对.wav 44M
-BEYOND best of millennium B/16 坚持信念.wav 37M
+01 光輝歲月.wav 51M
+02 午夜怨曲.wav 47M
+03 撒旦的詛咒.wav 38M
+04 請妳讓我來決定我的路.wav 39M
+05 射手座咒語.wav 38M
+06 歲月無聲.wav 44M
+07 曾經擁有.wav 44M
+08 懷念妳、忘記妳.wav 42M
+09 心中的太陽.wav 46M
+10 兩顆心.wav 40M
+光輝歲月.jpg 415k
 ````
-## 黄家驹 - 不死音乐精神特别纪念集 92-93 (AMCD)wav
+## 1992年08月-继续革命
 ````
-黄家驹 - 不死音乐精神特别纪念集 92-93 (AMCD).cue 1k
-黄家驹 - 不死音乐精神特别纪念集 92-93 (AMCD).wav 689M
+01-长城.wav 48M
+02-农民.wav 53M
+03-遥望.wav 53M
+04-Bye_Bye.wav 33M
+05-不可一世.wav 43M
+06-温暖的家乡.wav 32M
+07-快乐王国.wav 35M
+08-继续沉醉.wav 48M
+09-可否冲破.wav 48M
+10-早班火车.wav 58M
+11-无语问苍天.wav 47M
+12-厌倦寂寞.wav 43M
+繼續革命.jpg 178k
 ````
-## 1990年03月-大地（20周年24k）
+## 1996年02月-beyond得精彩
 ````
-1990年03月-大地-01-大地.wav 44M
-1990年03月-大地-02-漆黑的空间.wav 50M
-1990年03月-大地-03-短暂的温柔.wav 35M
-1990年03月-大地-04-不需要太懂.wav 43M
-1990年03月-大地-05-九十年代的忧伤.wav 29M
-1990年03月-大地-06-你知道我的迷惘.wav 52M
-1990年03月-大地-07-送给不懂保护环境的人（包括我）.wav 40M
-1990年03月-大地-08-和我自己的心比赛.wav 39M
-1990年03月-大地-09-破坏游戏的孩子.wav 40M
-1990年03月-大地-10-今天有我.wav 34M
-1990年03月-大地-内页/1.jpg 1M
-1990年03月-大地-内页/2.jpg 980k
-1990年03月-大地-内页/3.jpg 1M
-1990年03月-大地-内页/4.jpg 964k
-1990年03月-大地-封底.jpg 2M
-1990年03月-大地-封面.jpg 2M
-1990年03月-大地-盘面.jpg 314k
-````
-## 1989年05月-黑色迷牆電影原聲大碟
-````
-01 主題曲 (快版).wav 56M
-02 開場斬人.wav 12M
-03 第三街 (快版).wav 8M
-04 製毒工場.wav 13M
-05 山市街.wav 18M
-06 中環捉賊.wav 7M
-07 屋邨打鬥.wav 10M
-08 午夜迷牆 (電影版).wav 46M
-09 粉碎.wav 34M
-10 主角入球場.wav 16M
-11 製毒包裝.wav 11M
-12 第三街 (慢版).wav 14M
-13 避風塘回憶.wav 7M
-14 紙船.wav 22M
-15 主題曲 (慢版).wav 28M
-16 掃毒.wav 29M
-````
-## 1993年05月-乐与怒
-````
-1993年05月-乐与怒-01-我是愤怒.wav 42M
-1993年05月-乐与怒-02-爸爸妈妈.wav 37M
-1993年05月-乐与怒-03-和平与爱.wav 34M
-1993年05月-乐与怒-04-命运是你家.wav 34M
-1993年05月-乐与怒-05-全是爱.wav 47M
-1993年05月-乐与怒-06-海阔天空.wav 54M
-1993年05月-乐与怒-07-狂人山庄.wav 42M
-1993年05月-乐与怒-08-妄想.wav 42M
-1993年05月-乐与怒-09-完全地爱吧.wav 40M
-1993年05月-乐与怒-10-情人.wav 53M
-1993年05月-乐与怒-11-走不开的快乐.wav 43M
-1993年05月-乐与怒-12-无无谓.wav 20M
-1993年05月-乐与怒-曲目.txt 0k
-````
-## 狮子山下的传奇--黃家駒 (Beyond) DISC_3
-````
-獅子山下_傳奇再續 DISC_3.txt 0k
-黃家駒 (Beyond) - 獅子山下_傳奇再續 DISC_3.cue 2k
-黃家駒 (Beyond) - 獅子山下_傳奇再續 DISC_3.log 2k
-黃家駒 (Beyond) - 獅子山下_傳奇再續 DISC_3.wav 738M
-````
-## 1987年07月-亞拉伯跳舞女郎（2）
-````
-01 東方寶藏.wav 38M
-02 亞拉伯跳舞女郎.wav 39M
-03 沙丘魔女.wav 44M
-04 無聲的告別.wav 47M
-05 追憶.wav 44M
-06 昔日舞曲.wav 44M
-07 新天地.wav 34M
-08 隨意飄蕩.wav 47M
-09 過去與今天.wav 42M
-10 孤單一吻.wav 49M
-11 玻璃箱.wav 46M
-12 水晶球.wav 32M
-亞拉伯跳舞女郎.jpg 327k
-````
-## 1990年06月-天若有情電影原聲大碟
-````
-''天若有情'' 電影原聲大碟.jpg 175k
-1 灰色軌跡.wav 55M
-2 未曾後悔.wav 35M
-3 是錯也再不分.wav 44M
-4 天若有情.wav 38M
-````
-## 1986年03月-再见理想（回收版）
-````
-1986年03月-再见理想-01-永远等待.wav 51M
-1986年03月-再见理想-02-巨人.wav 54M
-1986年03月-再见理想-03-Long Way Without Friends.wav 74M
-1986年03月-再见理想-04-Last Man Who Knows You.wav 18M
-1986年03月-再见理想-05-Myth.wav 66M
-1986年03月-再见理想-06-再见理想.wav 73M
-1986年03月-再见理想-07-Dead Romance（Part I）.wav 69M
-1986年03月-再见理想-08-旧日的足迹.wav 64M
-1986年03月-再见理想-09-谁是勇敢.wav 63M
-1986年03月-再见理想-10-The Other Door.wav 44M
-1986年03月-再见理想-11-飞越苦海.wav 43M
-1986年03月-再见理想-12-木吉他.wav 15M
-1986年03月-再见理想-13-Dead Romance（Part II）.wav 40M
-1986年03月-再见理想.jpg 765k
-1986年03月-再见理想.tif 6M
-````
-## 1991年06月-DELIBERATE 猶豫（2）
-````
-01 AMANI.wav 48M
-02 堅持信念.wav 37M
-03 不再猶豫.wav 43M
-04 係要聽 Rock N' Roll.wav 40M
-05 我早應該習慣.wav 34M
-06 誰伴我闖蕩.wav 42M
-07 高溫派對.wav 35M
-08 誰來主宰.wav 38M
-09 愛妳一切.wav 39M
-10 完全的擁有.wav 36M
-DELIBERATE 猶豫.jpg 138k
-````
-## 1993年12月-遥望黄家驹不死的音乐精神特别纪念集92-93（香港首版）
-````
-01. 遥望(Live).wav 74M
-02. 长城(Live).wav 44M
-03. 不可一世.wav 42M
-04. 无语问苍天.wav 46M
-05. 海阔天空.wav 54M
-06. 命运是你家.wav 33M
-07. 无尽空虚.wav 46M
-08. 点解.点解.wav 34M
-09. 早班火车.wav 58M
-10. 继续沉醉.wav 48M
-11. 可否冲破.wav 47M
-12. 全是爱.wav 46M
-13. 为了你，为了你.wav 46M
-14. 遥望.wav 54M
-Beyond - 遥望.lrc 1k
-邓瑞霞 - 长城.lrc 1k
-````
-## 华纳群星.-.[华纳群星难忘您许冠杰].专辑.(wav)
-````
-华纳群星难忘您许冠杰.cue 1k
-华纳群星难忘您许冠杰.wav 543M
-````
-## 超越阿拉伯演唱会
-````
-87阿拉伯Audio_CD.cue 0k
-Track01.wav 122M
-Track02.wav 44M
-Track03.wav 62M
-Track04.wav 90M
+Track01.wav 46M
+Track02.wav 42M
+Track03.wav 41M
+Track04.wav 53M
 Track05.wav 44M
-Track06.wav 40M
-Track07.wav 41M
-Track08.wav 41M
 ````
-## 1988年09月-秘密警察
+## Beyond - 秘密警察（正东）
 ````
-1988年09月-秘密警察-01-冲开一切.wav 39M
-1988年09月-秘密警察-02-秘密警察.wav 34M
-1988年09月-秘密警察-03-再见理想.wav 48M
-1988年09月-秘密警察-04-昨日的牵绊.wav 53M
-1988年09月-秘密警察-05-未知赛事的长跑.wav 33M
-1988年09月-秘密警察-06-大地.wav 43M
-1988年09月-秘密警察-07-喜欢你.wav 45M
-1988年09月-秘密警察-08-每段路.wav 39M
-1988年09月-秘密警察-09-心内心外.wav 40M
-1988年09月-秘密警察-10-愿我能.wav 43M
-1988年09月-秘密警察-11-大地-国.wav 43M
-1988年09月-秘密警察-12-破坏游戏的孩子-国.wav 40M
-1988年09月-秘密警察-13-今天有我-国.wav 34M
-1988年09月-秘密警察.txt 1k
+Beyond - 秘密警察（正东）.cue 1k
+Beyond - 秘密警察（正东）.txt 1k
+Beyond - 秘密警察（正东）.wav 545M
+````
+## 1989年07月-BEYOND IV（2）
+````
+01 真的愛妳.wav 47M
+02 我有我風格.wav 37M
+03 曾是擁有.wav 45M
+04 摩登時代.wav 40M
+05 原諒我今天.wav 49M
+06 與妳共行.wav 40M
+07 逝去日子.wav 38M
+08 爆裂都市.wav 41M
+09 午夜迷牆.wav 47M
+10 最後的對話.wav 43M
+BEYOND IV.jpg 308k
 ````
 ## 1992年01月-BEYOND=RECOGNITION
 ````
@@ -705,41 +467,24 @@ Track08.wav 41M
 17 逝去日子.wav 38M
 BEYOND=RECOGNITION.jpg 2M
 ````
-## LPCD45
+## 1995年10月-LOVE & LIFE
 ````
-beyond-LPCD45-01-光辉岁月.wav 50M
-beyond-LPCD45-02-真的爱你.wav 46M
-beyond-LPCD45-03-再见理想.wav 50M
-beyond-LPCD45-04-喜欢你.wav 46M
-beyond-LPCD45-05-Amani.wav 48M
-beyond-LPCD45-06-谁伴我闯荡.wav 42M
-beyond-LPCD45-07-午夜怨曲.wav 46M
-beyond-LPCD45-08-灰色轨迹.wav 54M
-beyond-LPCD45-09-冷雨夜.wav 50M
-beyond-LPCD45-10-大地.wav 43M
-beyond-LPCD45-11-无悔这一生.wav 40M
-beyond-LPCD45-12-昔日舞曲.wav 44M
-beyond-LPCD45-13-旧日的足迹.wav 44M
-beyond-LPCD45-14-岁月无声.wav 48M
-beyond-LPCD45-15-不再犹豫.wav 42M
-beyond-LPCD45-16-秘密警察.wav 33M
-````
-## 1990年12月-命运派对（银圈首版）
-````
-IMG_3113.jpg 1M
-IMG_3123.jpg 2M
-IMG_3124.jpg 2M
-IMG_3127.jpg 1M
-Track01.wav 50M
-Track02.wav 41M
-Track03.wav 45M
-Track04.wav 54M
-Track05.wav 41M
-Track06.wav 35M
-Track07.wav 29M
-Track08.wav 37M
-Track09.wav 40M
-Track10.wav 40M
+BEYOND - CRYIN.wav 62M
+BEYOND - LOVE & LIFE.m3u 0k
+BEYOND - LOVE.wav 51M
+BEYOND - 一厢情愿.wav 57M
+BEYOND - 唯一.wav 44M
+BEYOND - 声音.wav 35M
+BEYOND - 最后的答案.wav 38M
+BEYOND - 梦.wav 40M
+BEYOND - 活得精彩.wav 43M
+BEYOND - 糊涂的人.wav 52M
+BEYOND - 荒谬世界.wav 48M
+Beyond博物馆.txt 0k
+IMG_0339.jpg 1M
+IMG_0340.jpg 1M
+IMG_0341.jpg 1M
+抓取日志.log 1k
 ````
 ## 真的beyond全集
 ````
@@ -893,6 +638,107 @@ Track10.wav 40M
 真的beyond-III/VCD/LOT.VCD 64k
 真的beyond-III/VCD/PSD.VCD 0k
 ````
+## 1983年01月-香港
+````
+IMG_0204.JPG 153k
+大廈 Building.wav 72M
+抓取日志.log 0k
+腦部侵蝕 Brain Attack.wav 72M
+````
+## 1989年07月-Beyond IV
+````
+1989年07月-Beyond IV-01-真的爱你.wav 46M
+1989年07月-Beyond IV-02-我有我风格.wav 37M
+1989年07月-Beyond IV-03-曾经拥有.wav 45M
+1989年07月-Beyond IV-04-摩登时代.wav 40M
+1989年07月-Beyond IV-05-原谅我今天.wav 48M
+1989年07月-Beyond IV-06-与你共行.wav 40M
+1989年07月-Beyond IV-07-逝去日子.wav 38M
+1989年07月-Beyond IV-08-爆裂都市.wav 40M
+1989年07月-Beyond IV-09-午夜迷墙.wav 46M
+1989年07月-Beyond IV-10-最后的对话.wav 43M
+````
+## [新艺宝]命运派对Beyond(20周年24K Gold)(首批限量日本版)[WAV+CUE]
+````
+Beyond - 命运派对 (20周年 24K  Gold).cue 1k
+Beyond - 命运派对 (20周年 24K  Gold).wav 417M
+EAC 抓取日志.log 2k
+cover.jpg 1M
+wav/(01) [Beyond] 光辉岁月.wav 50M
+wav/(02) [Beyond] 两颗心.wav 41M
+wav/(03) [Beyond] 俾面派对.wav 45M
+wav/(04) [Beyond] 无泪的遗憾.wav 53M
+wav/(05) [Beyond] 怀念你.wav 41M
+wav/(06) [Beyond] 可知道.wav 35M
+wav/(07) [Beyond] 相依的心.wav 29M
+wav/(08) [Beyond] 撒旦的咀咒.wav 37M
+wav/(09) [Beyond] 送给不知怎去保护环境的人(包括我).wav 40M
+wav/(10) [Beyond] 战胜心魔.wav 39M
+wav/命运派对 (20周年 24K  Gold).cue 3k
+wav/命运派对 (20周年 24K  Gold).m3u 0k
+wav/命运派对 (20周年 24K  Gold).m3u8 0k
+专辑简介.txt 1k
+巅峰无损-免责声明.txt 1k
+无标题.jpg 125k
+频谱.jpg 370k
+````
+## 1990年06月-天若有情電影原聲大碟
+````
+''天若有情'' 電影原聲大碟.jpg 175k
+1 灰色軌跡.wav 55M
+2 未曾後悔.wav 35M
+3 是錯也再不分.wav 44M
+4 天若有情.wav 38M
+````
+## 1991年12月-BEYOND LIVE 1991  2CD（2）
+````
+BEYOND LIVE 91.jpg 252k
+CD1/01 [Music Introduction].wav 17M
+CD1/02 俾面派對.wav 37M
+CD1/03 高溫派對.wav 33M
+CD1/04 我早應該習慣.wav 33M
+CD1/05 [Talk I].wav 4M
+CD1/06 午夜怨曲.wav 44M
+CD1/07 [Talk II].wav 4M
+CD1/08 是錯也再不分.wav 45M
+CD1/09 真的愛妳.wav 54M
+CD1/10 願我能.wav 53M
+CD1/11 誰伴我闖蕩.wav 43M
+CD1/12 灰色軌跡.wav 56M
+CD1/13 冷雨夜.wav 62M
+CD1/14 完全的擁有.wav 37M
+CD2/01 喜歡妳.wav 48M
+CD2/02 月光光.wav 22M
+CD2/03 舊日的足跡.wav 50M
+CD2/04 歲月無聲.wav 44M
+CD2/05 大地.wav 70M
+CD2/06 [Talk III].wav 7M
+CD2/07 不再猶豫.wav 44M
+CD2/08 [Talk IV].wav 9M
+CD2/09 AMANI.wav 54M
+CD2/10 [Encore Introduction].wav 34M
+CD2/11 金屬狂人.wav 41M
+CD2/12 [Talk V].wav 16M
+CD2/13 再見理想.wav 44M
+CD2/14 光輝歲月.wav 57M
+````
+## 1990年12月-命运派对（银圈首版）
+````
+IMG_3113.jpg 1M
+IMG_3123.jpg 2M
+IMG_3124.jpg 2M
+IMG_3127.jpg 1M
+Track01.wav 50M
+Track02.wav 41M
+Track03.wav 45M
+Track04.wav 54M
+Track05.wav 41M
+Track06.wav 35M
+Track07.wav 29M
+Track08.wav 37M
+Track09.wav 40M
+Track10.wav 40M
+````
 ## 1991生12月-命接触演唱会
 ````
 CD1/Track01.wav 17M
@@ -925,36 +771,125 @@ CD2/Track12.wav 16M
 CD2/Track13.wav 44M
 CD2/Track14.rar 47M
 ````
-## 1996年02月-beyond得精彩
+## 1993年12月-遥望黄家驹不死的音乐精神特别纪念集92-93（香港首版）
 ````
-Track01.wav 46M
-Track02.wav 42M
-Track03.wav 41M
-Track04.wav 53M
-Track05.wav 44M
+01. 遥望(Live).wav 74M
+02. 长城(Live).wav 44M
+03. 不可一世.wav 42M
+04. 无语问苍天.wav 46M
+05. 海阔天空.wav 54M
+06. 命运是你家.wav 33M
+07. 无尽空虚.wav 46M
+08. 点解.点解.wav 34M
+09. 早班火车.wav 58M
+10. 继续沉醉.wav 48M
+11. 可否冲破.wav 47M
+12. 全是爱.wav 46M
+13. 为了你，为了你.wav 46M
+14. 遥望.wav 54M
+Beyond - 遥望.lrc 1k
+邓瑞霞 - 长城.lrc 1k
 ````
-## 1993年05月-樂輿怒（2）
+## LPCD45
 ````
-01 我是憤怒.wav 42M
-02 爸爸媽媽.wav 37M
-03 和平與愛.wav 34M
-04 命運是妳家.wav 34M
-05 全是愛.wav 47M
-06 海闊天空.wav 54M
-07 狂人山莊.wav 42M
-08 妄想.wav 42M
-09 完全地愛吧.wav 40M
-10 情人.wav 53M
-11 走不開的快樂.wav 43M
-12 無無謂.wav 21M
-樂輿怒.jpg 111k
+beyond-LPCD45-01-光辉岁月.wav 50M
+beyond-LPCD45-02-真的爱你.wav 46M
+beyond-LPCD45-03-再见理想.wav 50M
+beyond-LPCD45-04-喜欢你.wav 46M
+beyond-LPCD45-05-Amani.wav 48M
+beyond-LPCD45-06-谁伴我闯荡.wav 42M
+beyond-LPCD45-07-午夜怨曲.wav 46M
+beyond-LPCD45-08-灰色轨迹.wav 54M
+beyond-LPCD45-09-冷雨夜.wav 50M
+beyond-LPCD45-10-大地.wav 43M
+beyond-LPCD45-11-无悔这一生.wav 40M
+beyond-LPCD45-12-昔日舞曲.wav 44M
+beyond-LPCD45-13-旧日的足迹.wav 44M
+beyond-LPCD45-14-岁月无声.wav 48M
+beyond-LPCD45-15-不再犹豫.wav 42M
+beyond-LPCD45-16-秘密警察.wav 33M
 ````
-## 1994 KINN'S [FOREVER VOL.1 新天地+第一次] 原盘无损WAV及写真照
+## 黄家驹 - 不死音乐精神特别纪念集 92-93 (AMCD)wav
 ````
-Track01.wav 34M
-Track02.wav 39M
-Track03.wav 45M
-Track04.wav 39M
+黄家驹 - 不死音乐精神特别纪念集 92-93 (AMCD).cue 1k
+黄家驹 - 不死音乐精神特别纪念集 92-93 (AMCD).wav 689M
+````
+## 1986年03月-再见理想（回收版）
+````
+1986年03月-再见理想-01-永远等待.wav 51M
+1986年03月-再见理想-02-巨人.wav 54M
+1986年03月-再见理想-03-Long Way Without Friends.wav 74M
+1986年03月-再见理想-04-Last Man Who Knows You.wav 18M
+1986年03月-再见理想-05-Myth.wav 66M
+1986年03月-再见理想-06-再见理想.wav 73M
+1986年03月-再见理想-07-Dead Romance（Part I）.wav 69M
+1986年03月-再见理想-08-旧日的足迹.wav 64M
+1986年03月-再见理想-09-谁是勇敢.wav 63M
+1986年03月-再见理想-10-The Other Door.wav 44M
+1986年03月-再见理想-11-飞越苦海.wav 43M
+1986年03月-再见理想-12-木吉他.wav 15M
+1986年03月-再见理想-13-Dead Romance（Part II）.wav 40M
+1986年03月-再见理想.jpg 765k
+1986年03月-再见理想.tif 6M
+````
+## 1989年01月-现代舞台
+````
+Track01.wav 44M
+Track02.wav 41M
+Track03.wav 40M
+Track04.wav 37M
+Track05.wav 43M
+Track05.wav.baiduyun.downloading 43M
+Track05.wav.baiduyun.downloading.cfg 2k
+Track06.wav 7M
+Track07.wav 43M
+Track08.wav 43M
+Track09.wav 45M
+Track10.wav 52M
+Track11.wav 45M
+````
+## 1992年09月-信念
+````
+BEYOND - BYE BYE.wav 33M
+BEYOND - 今天就做.wav 40M
+BEYOND - 关心永远在.wav 54M
+BEYOND - 农民.wav 54M
+BEYOND - 厌倦寂寞.wav 45M
+BEYOND - 可否冲破.wav 47M
+BEYOND - 年轻.wav 35M
+BEYOND - 最想念你.wav 57M
+BEYOND - 温暖的家乡.wav 32M
+BEYOND - 爱过的罪.wav 47M
+BEYOND - 长城.wav 49M
+BEYOND - 问自己.wav 47M
+Beyond博物馆.txt 0k
+IMG_0336.jpg 1M
+IMG_0337.jpg 1M
+IMG_0338.jpg 1M
+抓取日志.log 2k
+````
+## 狮子山下的传奇--黃家駒 (Beyond) DISC_3
+````
+獅子山下_傳奇再續 DISC_3.txt 0k
+黃家駒 (Beyond) - 獅子山下_傳奇再續 DISC_3.cue 2k
+黃家駒 (Beyond) - 獅子山下_傳奇再續 DISC_3.log 2k
+黃家駒 (Beyond) - 獅子山下_傳奇再續 DISC_3.wav 738M
+````
+## 1987年07月-亞拉伯跳舞女郎
+````
+1987年07月-亞拉伯跳舞女郎-01-东方宝藏.wav 38M
+1987年07月-亞拉伯跳舞女郎-02-亚拉伯跳舞女郎.wav 38M
+1987年07月-亞拉伯跳舞女郎-03-沙丘魔女.wav 43M
+1987年07月-亞拉伯跳舞女郎-04-无声的告别.wav 47M
+1987年07月-亞拉伯跳舞女郎-05-追忆.wav 44M
+1987年07月-亞拉伯跳舞女郎-06-昔日舞曲.wav 43M
+1987年07月-亞拉伯跳舞女郎-07-新天地.wav 34M
+1987年07月-亞拉伯跳舞女郎-08-随意飘荡.wav 47M
+1987年07月-亞拉伯跳舞女郎-09-过去与今天.wav 41M
+1987年07月-亞拉伯跳舞女郎-10-孤单一吻.wav 48M
+1987年07月-亞拉伯跳舞女郎-11-玻璃箱.wav 45M
+1987年07月-亞拉伯跳舞女郎-12-水晶球.wav 32M
+1987年07月-亞拉伯跳舞女郎.jpg 532k
 ````
 ## 1988年09月-秘密警察（2）
 ````
@@ -969,6 +904,65 @@ Track04.wav 39M
 09 心內心外.wav 41M
 10 願我能.wav 43M
 秘密警察.jpg 286k
+````
+## 1990年10月-大地
+````
+01 大地.wav 43M
+02 漆黑的空間.wav 50M
+03 短暫的溫柔.wav 34M
+04 不需要太懂.wav 43M
+05 九十年代的憂傷.wav 29M
+06 妳知道我的迷惘.wav 52M
+07 送給不懂環保的人.wav 39M
+08 和自己的心比賽.wav 39M
+09 破壞遊戲的孩子.wav 40M
+10 今天有我.wav 34M
+大地.jpg 197k
+````
+## 1991年03月-大地 (銀圈版)
+````
+01 大地.wav 44M
+02 不需要太懂.wav 43M
+03 漆黑的空間.wav 51M
+04 無悔這一生 (粵).wav 40M
+05 送給不懂環保的人.wav 40M
+06 短暫的溫柔.wav 35M
+07 歲月無聲 (粵).wav 48M
+08 和自己的心比賽.wav 39M
+09 午夜怨曲 (粵).wav 46M
+10 妳知道我的迷惘.wav 51M
+大地 (銀圈版).jpg 247k
+````
+## 华纳群星.-.[华纳群星难忘您许冠杰].专辑.(wav)
+````
+华纳群星难忘您许冠杰.cue 1k
+华纳群星难忘您许冠杰.wav 543M
+````
+## 雨果唱片：beyond专辑《LPCD45之Beyond》
+````
+1.JPG 280k
+2.jpg 293k
+3.jpg 230k
+LPCD45-Beyond.cue 1k
+LPCD45-Beyond.log 1k
+LPCD45-Beyond.wav 734M
+专辑简介.txt 0k
+````
+## 1987年07月-亞拉伯跳舞女郎（2）
+````
+01 東方寶藏.wav 38M
+02 亞拉伯跳舞女郎.wav 39M
+03 沙丘魔女.wav 44M
+04 無聲的告別.wav 47M
+05 追憶.wav 44M
+06 昔日舞曲.wav 44M
+07 新天地.wav 34M
+08 隨意飄蕩.wav 47M
+09 過去與今天.wav 42M
+10 孤單一吻.wav 49M
+11 玻璃箱.wav 46M
+12 水晶球.wav 32M
+亞拉伯跳舞女郎.jpg 327k
 ````
 ## 1988年12月-舊日足跡
 ````
@@ -986,46 +980,51 @@ Track04.wav 39M
 12 無聲的告別.wav 47M
 舊日足跡.jpg 219k
 ````
-## 1994年12月-PARADISE
 ````
-BEYOND - Dancing In The Rain.wav 44M
-BEYOND - PARADISE.m3u 0k
-BEYOND - Paradise(演奏版).wav 44M
-BEYOND - Paradise.wav 44M
-BEYOND - We Don't Make Without You.wav 44M
-BEYOND - 一辈子陪我走.wav 47M
-BEYOND - 和平世界.lrc 0k
-BEYOND - 和平世界.wav 45M
-BEYOND - 因为有你有我.wav 48M
-BEYOND - 对吗.wav 46M
-BEYOND - 情深依旧.wav 44M
-BEYOND - 无名英雄.wav 46M
-BEYOND - 温柔杀手.wav 41M
-BEYOND - 祝您愉快.wav 39M
-Beyond - PARADISE(英).lrc 0k
-Beyond - 对吗.lrc 0k
-Beyond - 情深依旧.lrc 0k
-Beyond - 无名英雄.lrc 1k
-Beyond博物馆.txt 0k
-IMG_0342.jpg 2M
-IMG_0343.jpg 2M
-IMG_0344.jpg 2M
-抓取日志.log 2k
+合辑【天碟金曲精选五】专辑.wav 652M
+我地呀电台现场版.wav 581M
+许冠杰 - 交织千个心.wav 57M
 ````
-## 1987年10月-超越阿拉伯
+## 1989年05月-黑色迷牆電影原聲大碟
 ````
-Track01.wav 38M
-Track02.wav 39M
-Track03.wav 44M
-Track04.wav 47M
-Track05.wav 44M
-Track06.wav 44M
-Track07.wav 34M
-Track08.wav 47M
-Track09.wav 42M
-Track10.wav 49M
-Track11.wav 46M
-Track12.wav 32M
+01 主題曲 (快版).wav 56M
+02 開場斬人.wav 12M
+03 第三街 (快版).wav 8M
+04 製毒工場.wav 13M
+05 山市街.wav 18M
+06 中環捉賊.wav 7M
+07 屋邨打鬥.wav 10M
+08 午夜迷牆 (電影版).wav 46M
+09 粉碎.wav 34M
+10 主角入球場.wav 16M
+11 製毒包裝.wav 11M
+12 第三街 (慢版).wav 14M
+13 避風塘回憶.wav 7M
+14 紙船.wav 22M
+15 主題曲 (慢版).wav 28M
+16 掃毒.wav 29M
+````
+## 1992年01月-control
+````
+01 報答一生.wav 39M
+02 灰色軌跡.wav 55M
+03 大地.wav 44M
+04 歲月無聲.wav 48M
+05 與妳共行.wav 41M
+06 舊日的足跡.wav 54M
+07 AMANI.wav 48M
+08 交織千個心.wav 59M
+09 光輝歲月.wav 51M
+10 未曾後悔.wav 35M
+11 冷雨夜.wav 50M
+12 懷念您.wav 41M
+13 再見理想.wav 50M
+BEYOND CONTROL 1.jpg 2M
+BEYOND CONTROL 2.jpg 3M
+BEYOND CONTROL 3.jpg 3M
+BEYOND CONTROL.jpg 256k
+BEYOND【CONTROL】专辑.cue 1k
+BEYOND【CONTROL】专辑.wav 620M
 ````
 
 ## 1996【DVD】Live & basice-DVD菜单
