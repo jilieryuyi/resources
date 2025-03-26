@@ -14,6 +14,46 @@
 [2700+中医电子书学习资料下载, 访问密码：1866](https://url68.ctfile.com/d/62178868-63996046-92a76a?p=1866)
 
 ````
+《大师写作班：这样写出好故事（全3册）》情节与结构+人物对话+描写与背景 (罗恩·罗泽尔  格洛丽亚·肯普顿  詹姆斯·斯科特·贝尔) .epub
+经典人物原型45种-创造独特角色的神话模型-美-维多利亚-林恩-施密特.pdf
+这就是ChartGPT.pdf
+零基础实现Excel动态图表 教程
+Word之光，word学习教程 初级篇word视频教程 进阶篇word视频教程
+51CTO Deepseek入门宝典 pdf
+ChartGPT大师班 从入门到精通
+deepseek学习资料
+2025最新大模型全套资料 大模型入门资料 AI产品经理书籍与面试 电子书视频教程 大模型实战落地案例 大模型八股文面试题 行业报告 白皮书 学习路线 课程大纲
+deepseek使用技巧全集
+deepseek从入门到精通
+零基础使用deepseek高效提问技巧
+Deepseek R1使用指南
+3个deepseek隐藏玩法，99%的人都不知道
+1000个deepseek神级提示词，让你轻松驾驭AI
+deepseek15天指导手册
+deepseek高效使用指南
+deepseek应该怎么提问
+deepseek 30个喂饭指令
+deepseek不好用，是你真的不会用啊
+deepseek小白使用指南，99%的人都不知道的适用技巧
+deepseek最强使用攻略，放弃复杂提示词，直接提问效果反而更好？
+当我用deepseek学习、工作和玩，惊艳！含提问攻略，使用实例和心得
+教大家如何使用deepseek AI进行超级降维知识输出
+如何部署deepseek训练自己的数据
+如何正确使用deepseek，99%的人都错了
+让你的deepseek能力翻倍的使用指南
+excel学习，基础入门93节
+excel学习，公式函数66节
+excel学习数据透视表34节
+excel学习，图表17节
+23套高级感年会PPT模板
+1500套教育教学教师PPT模板合集
+2100个Excel表格模板合集
+付费PPT1万套
+office模板合集 access excel ppt word
+2.6万+付费PPT模板
+Excel可视化信息图表模板122份
+
+
 【中医】000-神农本草经.txt 169k
 【中医】001-吴普本草.txt 29k
 【中医】002-本草经集注.txt 267k
