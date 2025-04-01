@@ -8,6 +8,23 @@
 10年+技术专家，golang、python、c、c++、java，可提供技术指导，咨询，一对一带徒弟
 提供各类软件服务支持，文档转换，图片放大，软件安装等等
 ````
+````
+beyond演唱会全集DVD精品资源
+1986【DVD】台北演唱会.iso 7.29G
+1987【DVD】超越阿拉伯原版DVD-无字幕无菜单.iso 4.25G
+1989【DVD】真的见证演唱会.iso 7.48G
+1990【DVD】万人劲Rock音乐会Rock Macau.iso 1.64G
+1991【DVD】演唱会-生命接触DVD9.iso 7.71G
+1993【DVD】马来西亚不插电.iso 2.57G
+1996【DVD】Live & basice-DVD菜单.iso 4.02G
+1999【DVD】Goodtime演唱会.iso 7.18G
+2003【DVD】香港告别演唱会DVD1.iso 5.65G
+2003【DVD】香港告别演唱会DVD2.iso 4.62G
+2005【DVD】告别香港演唱会DVD1.iso 5.16G
+2005【DVD】告别香港演唱会DVD2.iso 5.31G
+2005【DVD】告别香港演唱会DVD3.iso 4.3G
+````
+
 ----
 注意：所有电子书均来源于网络，版权归原作者所有，所有资料仅供学习参考之用，请勿商用
 ----
