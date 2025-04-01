@@ -9,6 +9,12 @@
 提供各类软件服务支持，文档转换，图片放大，软件安装等等
 ````
 ````
+许巍留声十年绝版青春2005年北京演唱会DVD.iso 7.6G
+许巍 2015 北京此时此刻演唱会蓝光原盘.Ci.Shi.Ci.Ke.Live.2015.Blu-ray.1080i.AVC.DTS-HD.MA5.1-HDChina.iso 28.1G
+伍佰&China Blue《手》 2014-光和热-无尽闪亮的世界演唱会-Wubai & China Blue - Light & Hot Live In Taipei 2014 1080i Blu-ray AVC DTS-HD MA 5.1-TTG .iso 43.3G
+张杰 未 · LIVE 2019 巡回演唱会.iso 22.6G
+````
+````
 beyond演唱会全集DVD精品资源
 1986【DVD】台北演唱会.iso 7.29G
 1987【DVD】超越阿拉伯原版DVD-无字幕无菜单.iso 4.25G
