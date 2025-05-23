@@ -1,7 +1,7 @@
 [1.7万电子书、音视频、演唱会在线资源](https://jilieryuyi.github.io/books1/)
 
 
-[10万+电子书，持续更新](https://jilieryuyi.github.io/books2/)
+[10万+电子书，持续更新](https://voluble-croquembouche-d321dc.netlify.app/)
 
 #### 找不着想要的，加微信咨询
 ![扫码加微信](w.png)
